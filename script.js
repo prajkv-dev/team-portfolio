@@ -23,7 +23,7 @@
     name:"Rohith M halgeri",
    role:"team member",
    email:"rohithhalgeri4@gmail.com",
-   instagram:"rohithhalgeri4@gmail.com"
+   instagram:" https://www.instagram.com/_rohithm_4_?igsh=MW9rOWxnZXJubnVveQ=="
   },
   {  
    name:"Sarup Samantha",
@@ -84,4 +84,5 @@ teamMembers.forEach(member => {
 
   container.appendChild(card);
 });
+
 
