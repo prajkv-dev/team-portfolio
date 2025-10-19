@@ -12,11 +12,7 @@
     insta: "https://www.instagram.com/prajwal_._kv_?igsh=M2lpcHFhbWlsd3E4",
     linkedin: "https://www.linkedin.com/in/prajwal-kv-4b16b4364"
   },
-   {  name: "Subhas ",
-    role: "team member",
-    email: "subworrior@gmail.com",
-    insta:"https://www.instagram.com/sub_worier_128?utm_source=qr&igsh=MTIyM3l3bTVtOXRiOQ=="
-   },
+
   {
     name: "Kiran Kumar N",
     role: "Team Member",
@@ -24,23 +20,43 @@
     linkedin: "https://www.linkedin.com/in/kiran-kumar-n-48a487371"
   },
   {
+    name:"Rohith M halgeri",
+   role:"team member",
+   email:"rohithhalgeri4@gmail.com",
+   instagram:"rohithhalgeri4@gmail.com"
+  },
+  {  
+   name:"Sarup Samantha",
+   role:"team Member",
+   email:"sarupsamanta2007@gmail.com",
+    instagram:"https://www.instagram.com/itz_sarup_2007?igsh=NTk2ZGE3NDlpdGNx"
+  },
+     { 
+      name: "Subhas ",
+    role: "team member",
+    email: "subworrior@gmail.com",
+    insta:"https://www.instagram.com/sub_worier_128?utm_source=qr&igsh=MTIyM3l3bTVtOXRiOQ=="
+   },
+  
+  {
     name: "Keerthana S",
     role: "Team Member",
     email: "keerthigowda6885@gmail.com",
     linkedin: "https://www.linkedin.com/in/keerthana-s-660646388"
   },
-  {
-    name: "Shravya",
-    role: "Team Member",
-    email: "shravyag30@gmail.com",
-    insta: "https://www.instagram.com/moon.gurl30?utm_source=qr&igsh=MWtkemE5ZnZkcmtqNA=="
-  },
+
   {
     name: "M. Deekshitha",
     role: "Team Member",
     email: "dheekshitham7@gmail.com",
     insta: "https://www.instagram.com/deekshu._.07?igsh=aXdmdHVxN3Fmbnh0",
     linkedin: "https://www.linkedin.com/in/m-dheekshitha-b16503388"
+  },
+    {
+    name: "Shravya",
+    role: "Team Member",
+    email: "shravyag30@gmail.com",
+    insta: "https://www.instagram.com/moon.gurl30?utm_source=qr&igsh=MWtkemE5ZnZkcmtqNA=="
   },
   {
     name: "Srusti N",
@@ -68,3 +84,4 @@ teamMembers.forEach(member => {
 
   container.appendChild(card);
 });
+
